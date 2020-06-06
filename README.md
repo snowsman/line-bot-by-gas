@@ -1,4 +1,4 @@
-# LINE Bot By GAS
+# LINE Bot by GAS
 
 Google Apps Script (GAS)を用いたLINE Bot
 
